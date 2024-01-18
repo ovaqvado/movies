@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+}
+
+.inp {
+  width: 100px;
+  height: 50px;
+}
+
+
+.inp {
+  position: sticky;
+  width: 200px;
+  height: 30px;
+  margin: 20px;
+}
